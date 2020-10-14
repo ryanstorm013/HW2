@@ -21,12 +21,12 @@ Navbar Tabs/ Buttons
 * Clicking Portfolio will send you to the Portfolio Site
 * If you go to Contacts and click submit, it will lead you to another website that completes your submission
 
-![Website 1](images/WebsiteImg1.png)
+![Website 1](WebImage/WebsiteImg1.png)
 
-![Website 2](images/WebsiteImg2.png)
+![Website 2](WebImage/WebsiteImg2.png)
 
-![Website 3](images/WebsiteImg3.png)
+![Website 3](WebImage/WebsiteImg3.png)
 
-![Website 4](images/WebsiteImg4.png)
+![Website 4](WebImage/WebsiteImg4.png)
 
 #### Note: Some Sites have GIF backgrounds
