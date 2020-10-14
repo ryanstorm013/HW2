@@ -1,0 +1,77 @@
+/* .bgColor {
+    
+    background-image: url("https://www.siarza.com/wp-content/uploads/2017/12/webplunder-background-image-technology-online-website-solutions.jpg");
+} */
+
+.card-img-top {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    
+}
+
+
+.footerExtend {
+    padding-top: 12px;
+    padding-bottom: 5px;
+}
+
+.container-fluid{
+    padding-left: 10px;
+    
+}
+
+.about-padding {
+    margin-left: 5rem;
+}
+
+.barExtender {
+    padding-left: 0rem;
+    padding-right: 0rem;
+}
+
+hr {
+    margin-top: 0px;
+}
+
+h4 {
+    text-align: left;
+   
+}
+
+body {
+    height: 100%;
+    
+}
+
+.aboutMeBackground {
+    background-image: url(https://64.media.tumblr.com/40e13d14129f677e9ce66a5766f20177/tumblr_p4ou25UUUw1rz0goio1_400.gifv);
+}
+
+.contactBackground {
+    background-image: url("https://64.media.tumblr.com/57b8ec843fceecceebb0f69bb5bebb29/tumblr_mzzjf2MLar1rz0goio1_500.gifv");
+}
+
+.portfolioBackground {
+    background-image: url("https://64.media.tumblr.com/fd0204167f283444be3438c4a4cec836/bc27007bdc5d21b0-36/s500x750/b0506d674f0a57d57a497e1ea7ec4d4b52fdb988.png");
+}
+
+.portfolioImage {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+textarea {
+    max-height: 240px;
+    min-height: 40px;
+}
+
+
