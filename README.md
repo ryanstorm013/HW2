@@ -21,10 +21,10 @@ Navbar Tabs/ Buttons
 * Clicking Portfolio will send you to the Portfolio Site
 * If you go to Contacts and click submit, it will lead you to another website that completes your submission
 
-![alt text](http://url/to/img.png)
+![Website 1](images/WebsiteImg1)
 
-![alt text](http://url/to/img.png)
+![Website 2](images/WebsiteImg2)
 
-![alt text](http://url/to/img.png)
+![Website 3](images/WebsiteImg3)
 
-![alt text](http://url/to/img.png)
+![Website 4](images/WebsiteImg4)
